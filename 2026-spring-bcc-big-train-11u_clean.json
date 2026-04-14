@@ -1,0 +1,6712 @@
+{
+  "metadata": {
+    "scrape_timestamp": "2026-04-13T20:47:50.692455",
+    "schedule_url": "https://web.gc.com/teams/hYwpOHgPHCsF/2026-spring-bcc-big-train-11u/schedule",
+    "descriptor": "2026-spring-bcc-big-train-11u",
+    "total_games": 3,
+    "api_base_url": "https://api.team-manager.gc.com/game-stream-processing",
+    "postprocessed_at": "2026-04-13T20:47:50.720394",
+    "our_team_id": "hYwpOHgPHCsF"
+  },
+  "games": [
+    {
+      "game_id": "1ad7ea35-f3c5-4e9a-97f7-016c765be153",
+      "scraped_at": "2026-04-13T20:47:38.013712",
+      "boxscore": {
+        "us": {
+          "lineup_totals": {
+            "AB": 33,
+            "R": 12,
+            "H": 10,
+            "RBI": 7,
+            "BB": 11,
+            "SO": 12
+          },
+          "lineup_players": [
+            {
+              "name": "Beckett Dickinson",
+              "number": "21",
+              "positions": "(CF, P)",
+              "stats": {
+                "AB": 5,
+                "R": 1,
+                "H": 2,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Grant Richards",
+              "number": "22",
+              "positions": "(C, P, RF, CF)",
+              "stats": {
+                "AB": 3,
+                "R": 3,
+                "H": 1,
+                "RBI": 0,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Will Kowalski",
+              "number": "98",
+              "positions": "(P, 3B)",
+              "stats": {
+                "AB": 4,
+                "R": 2,
+                "H": 2,
+                "RBI": 2,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Oliver Wells",
+              "number": "14",
+              "positions": "(P, 3B, RF, LF)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 0,
+                "RBI": 0,
+                "BB": 2,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Adam Ingram",
+              "number": "3",
+              "positions": "(SS)",
+              "stats": {
+                "AB": 2,
+                "R": 1,
+                "H": 1,
+                "RBI": 2,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Logan Pressberg",
+              "number": "12",
+              "positions": "(3B, P, C)",
+              "stats": {
+                "AB": 2,
+                "R": 2,
+                "H": 0,
+                "RBI": 0,
+                "BB": 2,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Joshua Lopez",
+              "number": "2",
+              "positions": "(LF, 2B, P)",
+              "stats": {
+                "AB": 3,
+                "R": 0,
+                "H": 1,
+                "RBI": 2,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Ren Endo",
+              "number": "11",
+              "positions": "(2B, P, 2B)",
+              "stats": {
+                "AB": 4,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Guest 1",
+              "number": "",
+              "positions": "(1B)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Guest 2",
+              "number": "",
+              "positions": "(RF, LF, RF)",
+              "stats": {
+                "AB": 4,
+                "R": 1,
+                "H": 2,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            }
+          ],
+          "lineup_extra": {
+            "2B": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 1
+              },
+              {
+                "name": "Guest 1",
+                "number": "",
+                "value": 1
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 1
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 1
+              }
+            ],
+            "TB": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 1
+              },
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 2
+              },
+              {
+                "name": "Guest 1",
+                "number": "",
+                "value": 2
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 3
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 1
+              },
+              {
+                "name": "Guest 2",
+                "number": "",
+                "value": 2
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 3
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 1
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 1
+              }
+            ],
+            "SB": [
+              {
+                "name": "Guest 1",
+                "number": "",
+                "value": 1
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 2
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 1
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 1
+              },
+              {
+                "name": "Guest 2",
+                "number": "",
+                "value": 1
+              }
+            ],
+            "E": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 1
+              },
+              {
+                "name": "Guest 1",
+                "number": "",
+                "value": 1
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 1
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 1
+              }
+            ]
+          },
+          "pitching_totals": {
+            "IP": 8,
+            "H": 11,
+            "R": 10,
+            "ER": 4,
+            "BB": 5,
+            "SO": 6
+          },
+          "pitching_players": [
+            {
+              "name": "Oliver Wells",
+              "number": "14",
+              "positions": "",
+              "stats": {
+                "IP": 1,
+                "H": 0,
+                "R": 1,
+                "ER": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Will Kowalski",
+              "number": "98",
+              "positions": "",
+              "stats": {
+                "IP": 1,
+                "H": 0,
+                "R": 0,
+                "ER": 0,
+                "BB": 0,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Logan Pressberg",
+              "number": "12",
+              "positions": "",
+              "stats": {
+                "IP": 1,
+                "H": 1,
+                "R": 1,
+                "ER": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Ren Endo",
+              "number": "11",
+              "positions": "",
+              "stats": {
+                "IP": 2,
+                "H": 5,
+                "R": 3,
+                "ER": 2,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Grant Richards",
+              "number": "22",
+              "positions": "",
+              "stats": {
+                "IP": "1.1",
+                "H": 5,
+                "R": 5,
+                "ER": 2,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Joshua Lopez",
+              "number": "2",
+              "positions": "",
+              "stats": {
+                "IP": 1,
+                "H": 0,
+                "R": 0,
+                "ER": 0,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Beckett Dickinson",
+              "number": "21",
+              "positions": "",
+              "stats": {
+                "IP": "0.2",
+                "H": 0,
+                "R": 0,
+                "ER": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            }
+          ],
+          "pitching_extra": {
+            "HBP": [
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 1
+              },
+              {
+                "name": "Ren Endo",
+                "number": "11",
+                "value": 2
+              }
+            ],
+            "#P": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 21
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 14
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 12
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 4
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 39
+              },
+              {
+                "name": "Ren Endo",
+                "number": "11",
+                "value": 34
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 14
+              }
+            ],
+            "TS": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 11
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 9
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 9
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 4
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 22
+              },
+              {
+                "name": "Ren Endo",
+                "number": "11",
+                "value": 21
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 8
+              }
+            ],
+            "BF": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 5
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 4
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 4
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 2
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 12
+              },
+              {
+                "name": "Ren Endo",
+                "number": "11",
+                "value": 14
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 3
+              }
+            ]
+          }
+        },
+        "opponent": {
+          "lineup_totals": {
+            "AB": 36,
+            "R": 10,
+            "H": 11,
+            "RBI": 6,
+            "BB": 5,
+            "SO": 6
+          },
+          "lineup_players": [
+            {
+              "name": "Jackson M",
+              "number": "",
+              "positions": "(2B)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Collin B",
+              "number": "20",
+              "positions": "(C)",
+              "stats": {
+                "AB": 3,
+                "R": 3,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Grayson M",
+              "number": "11",
+              "positions": "(3B)",
+              "stats": {
+                "AB": 0,
+                "R": 1,
+                "H": 0,
+                "RBI": 0,
+                "BB": 2,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Luke S",
+              "number": "22",
+              "positions": "(SS, P, C)",
+              "stats": {
+                "AB": 5,
+                "R": 0,
+                "H": 2,
+                "RBI": 2,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Jase R",
+              "number": "11",
+              "positions": "(3B, P)",
+              "stats": {
+                "AB": 5,
+                "R": 1,
+                "H": 2,
+                "RBI": 2,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Isaiah B",
+              "number": "7",
+              "positions": "(1B, P)",
+              "stats": {
+                "AB": 4,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Adrian O",
+              "number": "13",
+              "positions": "(LF)",
+              "stats": {
+                "AB": 4,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Trenton L",
+              "number": "39",
+              "positions": "(RF)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 2,
+                "RBI": 2,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Grayson A",
+              "number": "1",
+              "positions": "(P, CF)",
+              "stats": {
+                "AB": 4,
+                "R": 1,
+                "H": 2,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Declan P",
+              "number": "21",
+              "positions": "(2B, P, 1B)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Cole M",
+              "number": "3",
+              "positions": "(CF, P, SS)",
+              "stats": {
+                "AB": 3,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 0
+              }
+            }
+          ],
+          "lineup_extra": {
+            "2B": [
+              {
+                "name": "Trenton L",
+                "number": "39",
+                "value": 1
+              },
+              {
+                "name": "Jase R",
+                "number": "11",
+                "value": 1
+              }
+            ],
+            "TB": [
+              {
+                "name": "Grayson A",
+                "number": "1",
+                "value": 2
+              },
+              {
+                "name": "Luke S",
+                "number": "22",
+                "value": 2
+              },
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 1
+              },
+              {
+                "name": "Collin B",
+                "number": "20",
+                "value": 1
+              },
+              {
+                "name": "Trenton L",
+                "number": "39",
+                "value": 3
+              },
+              {
+                "name": "Adrian O",
+                "number": "13",
+                "value": 1
+              },
+              {
+                "name": "Jase R",
+                "number": "11",
+                "value": 3
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Jackson M",
+                "number": "",
+                "value": 1
+              },
+              {
+                "name": "Declan P",
+                "number": "21",
+                "value": 1
+              },
+              {
+                "name": "Trenton L",
+                "number": "39",
+                "value": 1
+              }
+            ],
+            "SB": [
+              {
+                "name": "Grayson A",
+                "number": "1",
+                "value": 1
+              },
+              {
+                "name": "Collin B",
+                "number": "20",
+                "value": 2
+              }
+            ],
+            "CS": [
+              {
+                "name": "Cole M",
+                "number": "3",
+                "value": 1
+              }
+            ],
+            "E": [
+              {
+                "name": "Cole M",
+                "number": "3",
+                "value": 1
+              },
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 1
+              },
+              {
+                "name": "Jase R",
+                "number": "11",
+                "value": 2
+              }
+            ]
+          },
+          "pitching_totals": {
+            "IP": 8,
+            "H": 10,
+            "R": 12,
+            "ER": 11,
+            "BB": 11,
+            "SO": 12
+          },
+          "pitching_players": [
+            {
+              "name": "Grayson A",
+              "number": "1",
+              "positions": "",
+              "stats": {
+                "IP": 1,
+                "H": 2,
+                "R": 1,
+                "ER": 1,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Cole M",
+              "number": "3",
+              "positions": "",
+              "stats": {
+                "IP": 2,
+                "H": 3,
+                "R": 2,
+                "ER": 2,
+                "BB": 0,
+                "SO": 5
+              }
+            },
+            {
+              "name": "Declan P",
+              "number": "21",
+              "positions": "",
+              "stats": {
+                "IP": 2,
+                "H": 2,
+                "R": 2,
+                "ER": 2,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Isaiah B",
+              "number": "7",
+              "positions": "",
+              "stats": {
+                "IP": "1.1",
+                "H": 2,
+                "R": 5,
+                "ER": 5,
+                "BB": 3,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Luke S",
+              "number": "22",
+              "positions": "",
+              "stats": {
+                "IP": "1.1",
+                "H": 1,
+                "R": 1,
+                "ER": 1,
+                "BB": 3,
+                "SO": 3
+              }
+            },
+            {
+              "name": "Jase R",
+              "number": "11",
+              "positions": "",
+              "stats": {
+                "IP": "0.1",
+                "H": 0,
+                "R": 1,
+                "ER": 0,
+                "BB": 3,
+                "SO": 0
+              }
+            }
+          ],
+          "pitching_extra": {
+            "WP": [
+              {
+                "name": "Cole M",
+                "number": "3",
+                "value": 1
+              },
+              {
+                "name": "Grayson A",
+                "number": "1",
+                "value": 2
+              },
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 2
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 2
+              }
+            ],
+            "#P": [
+              {
+                "name": "Declan P",
+                "number": "21",
+                "value": 28
+              },
+              {
+                "name": "Cole M",
+                "number": "3",
+                "value": 36
+              },
+              {
+                "name": "Grayson A",
+                "number": "1",
+                "value": 23
+              },
+              {
+                "name": "Luke S",
+                "number": "22",
+                "value": 39
+              },
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 45
+              },
+              {
+                "name": "Jase R",
+                "number": "11",
+                "value": 25
+              }
+            ],
+            "TS": [
+              {
+                "name": "Declan P",
+                "number": "21",
+                "value": 14
+              },
+              {
+                "name": "Cole M",
+                "number": "3",
+                "value": 23
+              },
+              {
+                "name": "Grayson A",
+                "number": "1",
+                "value": 12
+              },
+              {
+                "name": "Luke S",
+                "number": "22",
+                "value": 17
+              },
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 21
+              },
+              {
+                "name": "Jase R",
+                "number": "11",
+                "value": 10
+              }
+            ],
+            "BF": [
+              {
+                "name": "Declan P",
+                "number": "21",
+                "value": 8
+              },
+              {
+                "name": "Cole M",
+                "number": "3",
+                "value": 9
+              },
+              {
+                "name": "Grayson A",
+                "number": "1",
+                "value": 6
+              },
+              {
+                "name": "Luke S",
+                "number": "22",
+                "value": 8
+              },
+              {
+                "name": "Isaiah B",
+                "number": "7",
+                "value": 11
+              },
+              {
+                "name": "Jase R",
+                "number": "11",
+                "value": 4
+              }
+            ]
+          }
+        }
+      },
+      "plays": {
+        "sport": "baseball",
+        "plays": [
+          {
+            "order": 0,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Grayson A in at pitcher",
+              "Ball 1",
+              "Strike 1 looking",
+              "Ball 2",
+              "Ball 3",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Beckett Dickinson strikes out swinging, Grayson A pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 1,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Grant Richards singles on a fly ball to third baseman Jase R"
+            ],
+            "messages": []
+          },
+          {
+            "order": 2,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Double",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Grant Richards advances to 2nd on wild pitch",
+              "Ball 2",
+              "Grant Richards advances to 3rd on wild pitch",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski doubles on a line drive to left fielder Adrian O",
+              "Grant Richards scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 3,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Oliver Wells pops out to second baseman Declan P",
+              "Will Kowalski remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 4,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Adam Ingram walks, Grayson A pitching",
+              "Will Kowalski remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 5,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Logan Pressberg flies out to shortstop Luke S"
+            ],
+            "messages": []
+          },
+          {
+            "order": 6,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Dropped 3rd Strike",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Oliver Wells in at pitcher",
+              "Strike 1 looking",
+              "Strike 2 swinging",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Jackson M reaches on dropped 3rd strike (passed ball)"
+            ],
+            "messages": []
+          },
+          {
+            "order": 7,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Fielder's Choice",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Collin B grounds into fielder's choice, shortstop Adam Ingram to second baseman Ren Endo to first baseman Guest 1",
+              "Jackson M out advancing to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 8,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Line Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Collin B steals 2nd",
+              "Ball 2",
+              "Ball 3",
+              "Collin B advances to 3rd on passed ball",
+              "Foul",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Luke S lines out, shortstop Adam Ingram to first baseman Guest 1",
+              "Collin B remains at 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 9,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": true,
+            "at_plate": [
+              "Collin B scores",
+              "In play"
+            ],
+            "result": [
+              "Jase R grounds out, second baseman Ren Endo to first baseman Guest 1"
+            ],
+            "messages": []
+          },
+          {
+            "order": 10,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 swinging",
+              "Ball 2",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Joshua Lopez strikes out looking, Cole M pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 11,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 swinging",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Ren Endo grounds out, second baseman Declan P to first baseman Isaiah B"
+            ],
+            "messages": []
+          },
+          {
+            "order": 12,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Foul",
+              "Ball 2",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Guest 1 strikes out swinging, Cole M pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 13,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Will Kowalski in at pitcher",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Isaiah B grounds out, second baseman Ren Endo to first baseman Guest 1"
+            ],
+            "messages": []
+          },
+          {
+            "order": 14,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "Strike 2 swinging",
+              "Foul",
+              "Ball 2",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Adrian O strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 15,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 swinging",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Trenton L strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 16,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Guest 2 singles on a ground ball to shortstop Luke S"
+            ],
+            "messages": []
+          },
+          {
+            "order": 17,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Double",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 2,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Guest 2 steals 2nd",
+              "Ball 1",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Beckett Dickinson doubles on a fly ball to left fielder Adrian O",
+              "Guest 2 scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 18,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 2,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Foul",
+              "Ball 2",
+              "Beckett Dickinson steals 3rd",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Grant Richards strikes out looking, Cole M pitching",
+              "Beckett Dickinson remains at 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 19,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 3,
+            "score_changed": true,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski singles on a ground ball, left fielder Adrian O to first baseman Isaiah B",
+              "Will Kowalski advances to 2nd on error by first baseman Isaiah B",
+              "Beckett Dickinson scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 20,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Strike 2 looking",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Oliver Wells strikes out looking, Cole M pitching",
+              "Will Kowalski remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 21,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Ball 2",
+              "Foul",
+              "Ball 3",
+              "Will Kowalski advances to 3rd on wild pitch",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Adam Ingram strikes out looking, Cole M pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 22,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Logan Pressberg in at pitcher",
+              "Ball 1",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Grayson A singles on a fly ball to center fielder Beckett Dickinson"
+            ],
+            "messages": []
+          },
+          {
+            "order": 23,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Grayson A steals 2nd",
+              "Strike 1 looking",
+              "Strike 2 swinging",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Declan P walks, Logan Pressberg pitching",
+              "Grayson A remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 24,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Fielder's Choice",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 2,
+            "away_score": 3,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Cole M grounds into fielder's choice, second baseman Joshua Lopez to shortstop Adam Ingram to first baseman Guest 1",
+              "Declan P out advancing to 2nd",
+              "Grayson A scores on error by first baseman Guest 1"
+            ],
+            "messages": []
+          },
+          {
+            "order": 25,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 2,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Cole M caught stealing 2nd, shortstop Adam Ingram",
+              "Strike 2 looking",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Jackson M strikes out looking, Logan Pressberg pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 26,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 2,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Logan Pressberg walks, Declan P pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 27,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 2,
+            "away_score": 3,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Logan Pressberg steals 2nd",
+              "Ball 3",
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Joshua Lopez pops out to center fielder Grayson A",
+              "Logan Pressberg remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 28,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 2,
+            "away_score": 4,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Logan Pressberg steals 3rd",
+              "Logan Pressberg scores on error by third baseman Jase R",
+              "Ball 3",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Ren Endo strikes out swinging, Declan P pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 29,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Double",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 2,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 swinging",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Guest 1 doubles on a fly ball to left fielder Adrian O"
+            ],
+            "messages": []
+          },
+          {
+            "order": 30,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 2,
+            "away_score": 5,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Guest 1 steals 3rd",
+              "Guest 1 scores on error by third baseman Jase R",
+              "Ball 2",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Guest 2 singles on a line drive to right fielder Trenton L"
+            ],
+            "messages": []
+          },
+          {
+            "order": 31,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Runner Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 2,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Guest 2 picked off at 1st, pitcher Declan P to first baseman Isaiah B"
+            ],
+            "result": [
+              "Half-inning ended by out on the base paths"
+            ],
+            "messages": []
+          },
+          {
+            "order": 32,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Error",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 2,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Ren Endo in at pitcher",
+              "Foul",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Collin B hits a ground ball and reaches on an error by shortstop Adam Ingram"
+            ],
+            "messages": []
+          },
+          {
+            "order": 33,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 2,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Collin B steals 2nd",
+              "In play"
+            ],
+            "result": [
+              "Luke S grounds out, second baseman Joshua Lopez to first baseman Guest 1",
+              "Collin B advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 34,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Jase R singles on a line drive to center fielder Beckett Dickinson",
+              "Collin B scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 35,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Isaiah B singles on a pop fly to left fielder Guest 2",
+              "Jase R advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 36,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Pop Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Jase R advances to 3rd on passed ball",
+              "Isaiah B advances to 2nd on the same pitch",
+              "Strike 1 swinging",
+              "In play"
+            ],
+            "result": [
+              "Adrian O pops out to third baseman Will Kowalski",
+              "Jase R remains at 3rd",
+              "Isaiah B remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 37,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 swinging",
+              "Ball 2"
+            ],
+            "result": [
+              "Trenton L is hit by pitch, Ren Endo pitching",
+              "Jase R remains at 3rd",
+              "Isaiah B remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 38,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Line Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "In play"
+            ],
+            "result": [
+              "Grayson A lines out to pitcher Ren Endo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 39,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Beckett Dickinson flies out to left fielder Adrian O"
+            ],
+            "messages": []
+          },
+          {
+            "order": 40,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Grant Richards grounds out, shortstop Luke S to first baseman Isaiah B"
+            ],
+            "messages": []
+          },
+          {
+            "order": 41,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Line Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski lines out to third baseman Jase R"
+            ],
+            "messages": []
+          },
+          {
+            "order": 42,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 swinging",
+              "Ball 2",
+              "Strike 2 swinging",
+              "In play"
+            ],
+            "result": [
+              "Declan P flies out to third baseman Will Kowalski"
+            ],
+            "messages": []
+          },
+          {
+            "order": 43,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Cole M flies out to shortstop Adam Ingram"
+            ],
+            "messages": []
+          },
+          {
+            "order": 44,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1"
+            ],
+            "result": [
+              "Jackson M is hit by pitch, Ren Endo pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 45,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "Collin B singles on a ground ball to second baseman Joshua Lopez",
+              "Jackson M advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 46,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 4,
+            "away_score": 5,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Luke S singles on a fly ball to right fielder Oliver Wells",
+              "Jackson M scores",
+              "Collin B advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 47,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Double",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 5,
+            "score_changed": true,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Jase R doubles on a fly ball to left fielder Guest 2",
+              "Collin B scores",
+              "Luke S advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 48,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 swinging",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Isaiah B grounds out, shortstop Adam Ingram to first baseman Guest 1"
+            ],
+            "messages": []
+          },
+          {
+            "order": 49,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Strike 2 swinging",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Oliver Wells strikes out swinging, Isaiah B pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 50,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Hit By Pitch",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1"
+            ],
+            "result": [
+              "Adam Ingram is hit by pitch, Isaiah B pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 51,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Hit By Pitch",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Adam Ingram advances to 2nd on passed ball",
+              "Ball 2"
+            ],
+            "result": [
+              "Logan Pressberg is hit by pitch, Isaiah B pitching",
+              "Adam Ingram remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 52,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Ball 2",
+              "Adam Ingram advances to 3rd on passed ball",
+              "Logan Pressberg advances to 2nd on the same pitch",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "Joshua Lopez singles on a fly ball to center fielder Grayson A",
+              "Adam Ingram scores",
+              "Logan Pressberg advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 53,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Joshua Lopez advances to 2nd on defensive indifference",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Ren Endo pops out to first baseman Declan P",
+              "Logan Pressberg remains at 3rd",
+              "Joshua Lopez remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 54,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Guest 1 walks, Isaiah B pitching",
+              "Logan Pressberg remains at 3rd",
+              "Joshua Lopez remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 55,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Ball 1",
+              "Logan Pressberg scores on wild pitch",
+              "Joshua Lopez advances to 3rd on the same pitch",
+              "Guest 1 advances to 2nd on the same pitch",
+              "Foul",
+              "Ball 2",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Guest 2 strikes out swinging, Isaiah B pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 56,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Grant Richards in for pitcher Ren Endo",
+              "Strike 1 looking",
+              "Foul",
+              "Foul",
+              "Ball 1",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Adrian O strikes out swinging, Grant Richards pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 57,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Trenton L singles on a ground ball to third baseman Will Kowalski"
+            ],
+            "messages": []
+          },
+          {
+            "order": 58,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Trenton L picked off at 1st, first baseman Guest 1",
+              "In play"
+            ],
+            "result": [
+              "Grayson A singles on a ground ball to pitcher Grant Richards"
+            ],
+            "messages": []
+          },
+          {
+            "order": 59,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Ball 1"
+            ],
+            "result": [
+              "Declan P is hit by pitch, Grant Richards pitching",
+              "Grayson A advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 60,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Strike 2 looking",
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Cole M walks, Grant Richards pitching",
+              "Grayson A advances to 3rd",
+              "Declan P advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 61,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Jackson M grounds out, second baseman Ren Endo to first baseman Guest 1"
+            ],
+            "messages": []
+          },
+          {
+            "order": 62,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Foul",
+              "Ball 1",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Beckett Dickinson singles on a hard ground ball to right fielder Trenton L"
+            ],
+            "messages": []
+          },
+          {
+            "order": 63,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Beckett Dickinson advances to 2nd on passed ball",
+              "Strike 1 looking",
+              "Ball 2",
+              "Foul",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Grant Richards walks, Isaiah B pitching",
+              "Beckett Dickinson remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 64,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Fielder's Choice",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski grounds into fielder's choice to third baseman Jase R",
+              "Beckett Dickinson out advancing to 3rd",
+              "Grant Richards advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 65,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Grant Richards advances to 3rd on wild pitch",
+              "Will Kowalski advances to 2nd on the same pitch",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Oliver Wells walks, Isaiah B pitching",
+              "Grant Richards remains at 3rd",
+              "Will Kowalski remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 66,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Double",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 9,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Adam Ingram doubles on a line drive to right fielder Trenton L",
+              "Grant Richards scores",
+              "Will Kowalski scores",
+              "Oliver Wells advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 67,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 9,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Logan Pressberg walks, Luke S pitching",
+              "Oliver Wells remains at 3rd",
+              "Adam Ingram remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 68,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 10,
+            "score_changed": true,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Joshua Lopez walks, Luke S pitching",
+              "Oliver Wells scores",
+              "Adam Ingram advances to 3rd",
+              "Logan Pressberg advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 69,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 looking",
+              "Ball 2",
+              "Ball 3",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Ren Endo strikes out swinging, Luke S pitching",
+              "Adam Ingram remains at 3rd",
+              "Logan Pressberg remains at 2nd",
+              "Joshua Lopez remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 70,
+            "inning": 7,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Guest 1 strikes out swinging, Luke S pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 71,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Grayson M walks, Grant Richards pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 72,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 6,
+            "away_score": 10,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Luke S singles on a line drive to center fielder Beckett Dickinson",
+              "Grayson M advances to 3rd",
+              "Grayson M scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 73,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Fielder's Choice",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 6,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Jase R grounds into fielder's choice, second baseman Ren Endo to shortstop Adam Ingram to first baseman Guest 1",
+              "Luke S out advancing to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 74,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Error",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 6,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Isaiah B hits a ground ball and reaches on an error by third baseman Will Kowalski",
+              "Jase R advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 75,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 6,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Adrian O singles on a ground ball to shortstop Adam Ingram",
+              "Jase R advances to 3rd",
+              "Isaiah B advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 76,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Double",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 9,
+            "away_score": 10,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Foul",
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Jase R scores on passed ball",
+              "Isaiah B advances to 3rd on the same pitch",
+              "Adrian O advances to 2nd on the same pitch",
+              "In play"
+            ],
+            "result": [
+              "Trenton L doubles on a fly ball to right fielder Guest 2",
+              "Isaiah B scores",
+              "Adrian O scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 77,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 10,
+            "score_changed": true,
+            "at_plate": [
+              "Lineup changed: Joshua Lopez in at pitcher",
+              "Strike 1 swinging",
+              "Ball 1",
+              "Strike 2 swinging",
+              "Trenton L advances to 3rd on passed ball",
+              "Trenton L scores on error by catcher Logan Pressberg",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Grayson A flies out to left fielder Oliver Wells"
+            ],
+            "messages": []
+          },
+          {
+            "order": 78,
+            "inning": 7,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Declan P strikes out swinging, Joshua Lopez pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 79,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Guest 2 grounds out, third baseman Jase R to first baseman Declan P"
+            ],
+            "messages": []
+          },
+          {
+            "order": 80,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Beckett Dickinson strikes out swinging, Luke S pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 81,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 10,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Grant Richards walks, Luke S pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 82,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 10,
+            "away_score": 10,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Grant Richards steals 2nd",
+              "Ball 1",
+              "Ball 2",
+              "Grant Richards advances to 3rd on defensive indifference",
+              "Ball 3",
+              "Strike 2 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Will Kowalski walks, Jase R pitching",
+              "Grant Richards remains at 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 83,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 10,
+            "away_score": 11,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Will Kowalski advances to 2nd on defensive indifference",
+              "Ball 1",
+              "Ball 2",
+              "Grant Richards scores on passed ball",
+              "Will Kowalski advances to 3rd on the same pitch",
+              "Ball 3",
+              "Foul",
+              "Ball 4"
+            ],
+            "result": [
+              "Oliver Wells walks, Jase R pitching",
+              "Will Kowalski remains at 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 84,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 10,
+            "away_score": 11,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Oliver Wells advances to 2nd on defensive indifference",
+              "Strike 2 looking",
+              "Ball 2",
+              "Foul",
+              "Foul",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Adam Ingram walks, Jase R pitching",
+              "Will Kowalski remains at 3rd",
+              "Oliver Wells remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 85,
+            "inning": 8,
+            "half": "top",
+            "outcome": "Error",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 12,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "Logan Pressberg hits a ground ball and reaches on an error by shortstop Cole M",
+              "Adam Ingram out advancing to 2nd",
+              "Will Kowalski scores",
+              "Oliver Wells advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 86,
+            "inning": 8,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 12,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Cole M grounds out, shortstop Adam Ingram to first baseman Guest 1"
+            ],
+            "messages": []
+          },
+          {
+            "order": 87,
+            "inning": 8,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 10,
+            "away_score": 12,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Jackson M walks, Joshua Lopez pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 88,
+            "inning": 8,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 10,
+            "away_score": 12,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 looking",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Grayson M walks, Joshua Lopez pitching",
+              "Jackson M advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 89,
+            "inning": 8,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 12,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Luke S flies out to left fielder Oliver Wells",
+              "Jackson M remains at 2nd",
+              "Grayson M remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 90,
+            "inning": 8,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 10,
+            "away_score": 12,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Jase R flies out to left fielder Oliver Wells"
+            ],
+            "messages": []
+          },
+          {
+            "order": 91,
+            "inning": 9,
+            "half": "top",
+            "outcome": "${f91f4b1d-93d2-403b-a4d0-4dba8ac91800} at bat",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [],
+            "result": [],
+            "messages": []
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "3b573912-4d8f-4b96-a2c4-349f37a5ec3d",
+      "scraped_at": "2026-04-13T20:47:42.648127",
+      "boxscore": {
+        "us": {
+          "lineup_totals": {
+            "AB": 23,
+            "R": 8,
+            "H": 7,
+            "RBI": 5,
+            "BB": 3,
+            "SO": 3
+          },
+          "lineup_players": [
+            {
+              "name": "Beckett Dickinson",
+              "number": "21",
+              "positions": "(LF)",
+              "stats": {
+                "AB": 3,
+                "R": 2,
+                "H": 1,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Grant Richards",
+              "number": "22",
+              "positions": "(C)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 2,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Will Kowalski",
+              "number": "98",
+              "positions": "(3B)",
+              "stats": {
+                "AB": 3,
+                "R": 2,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Oliver Wells",
+              "number": "14",
+              "positions": "(P, RF, 3B)",
+              "stats": {
+                "AB": 1,
+                "R": 1,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Adam Ingram",
+              "number": "3",
+              "positions": "(SS, P)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Everett Harkins",
+              "number": "51",
+              "positions": "(C, 3B)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 2,
+                "RBI": 3,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Logan Pressberg",
+              "number": "12",
+              "positions": "(3B, P, SS)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Tommy DiPompeo",
+              "number": "24",
+              "positions": "(CF)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Joshua Lopez",
+              "number": "2",
+              "positions": "(2B)",
+              "stats": {
+                "AB": 1,
+                "R": 1,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Grant Wang",
+              "number": "17",
+              "positions": "(1B)",
+              "stats": {
+                "AB": 2,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Ren Endo",
+              "number": "11",
+              "positions": "(RF, 2B)",
+              "stats": {
+                "AB": 0,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Darcy Mizejewski",
+              "number": "7",
+              "positions": "",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            }
+          ],
+          "lineup_extra": {
+            "TB": [
+              {
+                "name": "Everett Harkins",
+                "number": "51",
+                "value": 2
+              },
+              {
+                "name": "Grant Wang",
+                "number": "17",
+                "value": 1
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 1
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 2
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 1
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Ren Endo",
+                "number": "11",
+                "value": 1
+              }
+            ],
+            "SB": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 2
+              },
+              {
+                "name": "Grant Wang",
+                "number": "17",
+                "value": 2
+              },
+              {
+                "name": "Grant Richards",
+                "number": "22",
+                "value": 1
+              }
+            ]
+          },
+          "pitching_totals": {
+            "IP": 4.666666666666667,
+            "H": 9,
+            "R": 9,
+            "ER": 9,
+            "BB": 5,
+            "SO": 5
+          },
+          "pitching_players": [
+            {
+              "name": "Oliver Wells",
+              "number": "14",
+              "positions": "",
+              "stats": {
+                "IP": "2.1",
+                "H": 6,
+                "R": 5,
+                "ER": 5,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Logan Pressberg",
+              "number": "12",
+              "positions": "",
+              "stats": {
+                "IP": "1.2",
+                "H": 2,
+                "R": 3,
+                "ER": 3,
+                "BB": 2,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Adam Ingram",
+              "number": "3",
+              "positions": "",
+              "stats": {
+                "IP": "0.2",
+                "H": 1,
+                "R": 1,
+                "ER": 1,
+                "BB": 1,
+                "SO": 2
+              }
+            }
+          ],
+          "pitching_extra": {
+            "WP": [
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 1
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 2
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 1
+              }
+            ],
+            "#P": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 23
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 27
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 48
+              }
+            ],
+            "TS": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 12
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 14
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 24
+              }
+            ],
+            "BF": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 6
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 8
+              },
+              {
+                "name": "Oliver Wells",
+                "number": "14",
+                "value": 15
+              }
+            ]
+          }
+        },
+        "opponent": {
+          "lineup_totals": {
+            "AB": 20,
+            "R": 9,
+            "H": 9,
+            "RBI": 8,
+            "BB": 5,
+            "SO": 5
+          },
+          "lineup_players": [
+            {
+              "name": "M Brooks",
+              "number": "99",
+              "positions": "(3B, LF)",
+              "stats": {
+                "AB": 1,
+                "R": 2,
+                "H": 1,
+                "RBI": 3,
+                "BB": 2,
+                "SO": 0
+              }
+            },
+            {
+              "name": "B Brooks",
+              "number": "12",
+              "positions": "(P, 3B)",
+              "stats": {
+                "AB": 2,
+                "R": 2,
+                "H": 1,
+                "RBI": 1,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Wynn",
+              "number": "1",
+              "positions": "(RF)",
+              "stats": {
+                "AB": 1,
+                "R": 0,
+                "H": 0,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Engle",
+              "number": "24",
+              "positions": "(RF, CF)",
+              "stats": {
+                "AB": 3,
+                "R": 0,
+                "H": 2,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Lloyd",
+              "number": "2",
+              "positions": "(SS)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Saddoughi",
+              "number": "17",
+              "positions": "(C)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 1,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Austin",
+              "number": "26",
+              "positions": "(1B)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Pustilnik",
+              "number": "35",
+              "positions": "(2B, LF)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Liang",
+              "number": "32",
+              "positions": "(LF, 2B)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 1,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Soccaras",
+              "number": "5",
+              "positions": "(P)",
+              "stats": {
+                "AB": 2,
+                "R": 2,
+                "H": 2,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Boteler",
+              "number": "11",
+              "positions": "(CF, 2B)",
+              "stats": {
+                "AB": 0,
+                "R": 2,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 0
+              }
+            }
+          ],
+          "lineup_extra": {
+            "HR": [
+              {
+                "name": "M Brooks",
+                "number": "99",
+                "value": 1
+              }
+            ],
+            "TB": [
+              {
+                "name": "Lloyd",
+                "number": "2",
+                "value": 1
+              },
+              {
+                "name": "B Brooks",
+                "number": "12",
+                "value": 1
+              },
+              {
+                "name": "Engle",
+                "number": "24",
+                "value": 2
+              },
+              {
+                "name": "M Brooks",
+                "number": "99",
+                "value": 4
+              },
+              {
+                "name": "Saddoughi",
+                "number": "17",
+                "value": 1
+              },
+              {
+                "name": "Soccaras",
+                "number": "5",
+                "value": 2
+              },
+              {
+                "name": "Liang",
+                "number": "32",
+                "value": 1
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Boteler",
+                "number": "11",
+                "value": 1
+              },
+              {
+                "name": "Wynn",
+                "number": "1",
+                "value": 1
+              },
+              {
+                "name": "Austin",
+                "number": "26",
+                "value": 1
+              }
+            ],
+            "SB": [
+              {
+                "name": "Lloyd",
+                "number": "2",
+                "value": 2
+              },
+              {
+                "name": "M Brooks",
+                "number": "99",
+                "value": 1
+              },
+              {
+                "name": "Saddoughi",
+                "number": "17",
+                "value": 1
+              }
+            ],
+            "E": [
+              {
+                "name": "Pustilnik",
+                "number": "35",
+                "value": 1
+              }
+            ]
+          },
+          "pitching_totals": {
+            "IP": 5,
+            "H": 7,
+            "R": 8,
+            "ER": 2,
+            "BB": 3,
+            "SO": 3
+          },
+          "pitching_players": [
+            {
+              "name": "B Brooks",
+              "number": "12",
+              "positions": "",
+              "stats": {
+                "IP": "1.1",
+                "H": 0,
+                "R": 2,
+                "ER": 0,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Soccaras",
+              "number": "5",
+              "positions": "",
+              "stats": {
+                "IP": "2.2",
+                "H": 5,
+                "R": 2,
+                "ER": 2,
+                "BB": 1,
+                "SO": 2
+              }
+            }
+          ],
+          "pitching_extra": {
+            "HBP": [
+              {
+                "name": "B Brooks",
+                "number": "12",
+                "value": 1
+              }
+            ],
+            "#P": [
+              {
+                "name": "B Brooks",
+                "number": "12",
+                "value": 33
+              },
+              {
+                "name": "Soccaras",
+                "number": "5",
+                "value": 46
+              }
+            ],
+            "TS": [
+              {
+                "name": "B Brooks",
+                "number": "12",
+                "value": 18
+              },
+              {
+                "name": "Soccaras",
+                "number": "5",
+                "value": 27
+              }
+            ],
+            "BF": [
+              {
+                "name": "B Brooks",
+                "number": "12",
+                "value": 9
+              },
+              {
+                "name": "Soccaras",
+                "number": "5",
+                "value": 12
+              }
+            ]
+          }
+        }
+      },
+      "plays": {
+        "sport": "baseball",
+        "plays": [
+          {
+            "order": 0,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Error",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Beckett Dickinson hits a fly ball and reaches on an error by center fielder"
+            ],
+            "messages": []
+          },
+          {
+            "order": 1,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Grant Richards singles on a line drive to right fielder",
+              "Beckett Dickinson advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 2,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Error",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Grant Richards steals 2nd",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski hits a fly ball and reaches on an error by right fielder",
+              "Beckett Dickinson scores",
+              "Grant Richards advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 3,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Catcher's Interference",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 looking",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Oliver Wells reaches on catcher's interference",
+              "Grant Richards remains at 3rd",
+              "Will Kowalski advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 4,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 2,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Grant Richards scores on error by pitcher",
+              "Will Kowalski advances to 3rd on the same error",
+              "Oliver Wells advances to 2nd on the same error",
+              "Foul",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Adam Ingram pops out to third baseman",
+              "Will Kowalski remains at 3rd",
+              "Oliver Wells remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 5,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": true,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Everett Harkins singles on a ground ball to left fielder",
+              "Oliver Wells scores",
+              "Will Kowalski scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 6,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Double Play",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Logan Pressberg lines into a double play to pitcher",
+              "Everett Harkins out advancing to 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 7,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Oliver Wells in at pitcher",
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "M Brooks walks, Oliver Wells pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 8,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Strike 1 looking",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "B Brooks flies out to right fielder Ren Endo",
+              "M Brooks remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 9,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "M Brooks steals 2nd",
+              "Strike 1 looking",
+              "Foul",
+              "Ball 1",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Wynn strikes out swinging, Oliver Wells pitching",
+              "M Brooks remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 10,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Engle grounds out to shortstop Adam Ingram"
+            ],
+            "messages": []
+          },
+          {
+            "order": 11,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Tommy DiPompeo grounds out to first baseman"
+            ],
+            "messages": []
+          },
+          {
+            "order": 12,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Strike 1 looking",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Joshua Lopez walks, B Brooks pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 13,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Error",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 4,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Joshua Lopez steals 2nd",
+              "Strike 1 looking",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Grant Wang hits a ground ball and reaches on an error by second baseman",
+              "Joshua Lopez advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 14,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Hit By Pitch",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Grant Wang steals 2nd",
+              "Joshua Lopez scores on steal of home",
+              "Ball 2"
+            ],
+            "result": [
+              "Ren Endo is hit by pitch, B Brooks pitching",
+              "Grant Wang remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 15,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Darcy Mizejewski pops out to second baseman",
+              "Grant Wang remains at 2nd",
+              "Ren Endo remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 16,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Grant Wang steals 3rd",
+              "Strike 2 looking",
+              "Ren Endo advances to 2nd on defensive indifference",
+              "Ball 1",
+              "Ball 2",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Beckett Dickinson strikes out swinging, B Brooks pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 17,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Foul",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Lloyd singles on a ground ball to left fielder Beckett Dickinson"
+            ],
+            "messages": []
+          },
+          {
+            "order": 18,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Lloyd steals 2nd",
+              "Ball 2",
+              "Lloyd steals 3rd",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Saddoughi walks, Oliver Wells pitching",
+              "Lloyd remains at 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 19,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Pop Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Saddoughi steals 2nd",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Austin pops out to second baseman Joshua Lopez",
+              "Lloyd remains at 3rd",
+              "Saddoughi remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 20,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Pop Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Pustilnik pops out in foul territory to first baseman Grant Wang",
+              "Lloyd remains at 3rd",
+              "Saddoughi remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 21,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 5,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Liang singles on a ground ball, right fielder Ren Endo to first baseman Grant Wang to catcher Everett Harkins",
+              "Saddoughi out advancing to home",
+              "Lloyd scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 22,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Grant Richards grounds out to shortstop Lloyd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 23,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Error",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Foul",
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski hits a pop fly and reaches on an error by second baseman Pustilnik"
+            ],
+            "messages": []
+          },
+          {
+            "order": 24,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Ball 2",
+              "Ball 3",
+              "Foul",
+              "Ball 4"
+            ],
+            "result": [
+              "Oliver Wells walks, B Brooks pitching",
+              "Will Kowalski advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 25,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Infield Fly",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 5,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Soccaras in at pitcher",
+              "Ball 1",
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Adam Ingram out on infield fly to second baseman Pustilnik",
+              "Will Kowalski remains at 2nd",
+              "Oliver Wells remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 26,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 1,
+            "away_score": 6,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Everett Harkins singles on a line drive, right fielder Engle to shortstop Lloyd to third baseman M Brooks",
+              "Will Kowalski scores",
+              "Oliver Wells out advancing to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 27,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Soccaras singles on a fly ball to center fielder Tommy DiPompeo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 28,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 1,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1"
+            ],
+            "result": [
+              "Boteler is hit by pitch, Oliver Wells pitching",
+              "Soccaras advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 29,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Home Run",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 4,
+            "away_score": 6,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "M Brooks homers on a fly ball to center field",
+              "Soccaras scores",
+              "Boteler scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 30,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 4,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "B Brooks singles on a line drive to center fielder Tommy DiPompeo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 31,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Sacrifice Bunt",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 4,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Wynn sacrifices to catcher Everett Harkins",
+              "Wynn out advancing to 1st",
+              "B Brooks advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 32,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": true,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "B Brooks scores on wild pitch",
+              "In play"
+            ],
+            "result": [
+              "Engle singles on a line drive to right fielder Ren Endo",
+              "Engle advances to 2nd on the throw"
+            ],
+            "messages": []
+          },
+          {
+            "order": 33,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Strike 2 looking",
+              "Foul",
+              "Ball 2",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Lloyd strikes out swinging, Logan Pressberg pitching",
+              "Engle remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 34,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Saddoughi singles on a ground ball to center fielder Tommy DiPompeo",
+              "Engle out advancing to home"
+            ],
+            "messages": []
+          },
+          {
+            "order": 35,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Foul",
+              "Foul",
+              "Foul tip"
+            ],
+            "result": [
+              "Logan Pressberg is out on foul tip, Soccaras pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 36,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Foul",
+              "Foul",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Tommy DiPompeo grounds out to second baseman Liang"
+            ],
+            "messages": []
+          },
+          {
+            "order": 37,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "Foul",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Joshua Lopez strikes out swinging, Soccaras pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 38,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Line Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Austin lines out to left fielder Beckett Dickinson"
+            ],
+            "messages": []
+          },
+          {
+            "order": 39,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Foul",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Pustilnik strikes out looking, Logan Pressberg pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 40,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Liang flies out to right fielder Oliver Wells"
+            ],
+            "messages": []
+          },
+          {
+            "order": 41,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Grant Wang singles on a line drive to right fielder Wynn"
+            ],
+            "messages": []
+          },
+          {
+            "order": 42,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Foul",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Ren Endo walks, Soccaras pitching",
+              "Grant Wang advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 43,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 6,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Strike 2 looking",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Darcy Mizejewski grounds out to second baseman Boteler",
+              "Grant Wang advances to 3rd",
+              "Ren Endo advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 44,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 7,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Beckett Dickinson singles on a line drive to right fielder Wynn",
+              "Ren Endo out advancing to home",
+              "Beckett Dickinson advances to 2nd on the throw",
+              "Grant Wang scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 45,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 8,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Grant Richards singles on a fly ball to center fielder Engle",
+              "Beckett Dickinson scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 46,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski singles on a line drive to third baseman B Brooks",
+              "Grant Richards advances to 3rd on the throw"
+            ],
+            "messages": []
+          },
+          {
+            "order": 47,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 5,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Oliver Wells pops out to shortstop Lloyd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 48,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Soccaras singles on a line drive to center fielder Tommy DiPompeo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 49,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Boteler walks, Logan Pressberg pitching",
+              "Soccaras advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 50,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 5,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "M Brooks walks, Logan Pressberg pitching",
+              "Soccaras advances to 3rd",
+              "Boteler advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 51,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 6,
+            "away_score": 8,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Foul",
+              "Ball 4"
+            ],
+            "result": [
+              "B Brooks walks, Adam Ingram pitching",
+              "Soccaras scores",
+              "Boteler advances to 3rd",
+              "M Brooks advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 52,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 7,
+            "away_score": 8,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2"
+            ],
+            "result": [
+              "Wynn is hit by pitch, Adam Ingram pitching",
+              "Boteler scores",
+              "M Brooks advances to 3rd",
+              "B Brooks advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 53,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 8,
+            "away_score": 8,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Engle singles on a fly ball to center fielder Tommy DiPompeo",
+              "M Brooks scores",
+              "B Brooks advances to 3rd",
+              "Wynn advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 54,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 8,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Foul",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Lloyd strikes out swinging, Adam Ingram pitching",
+              "B Brooks remains at 3rd",
+              "Wynn remains at 2nd",
+              "Engle remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 55,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 8,
+            "away_score": 8,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Ball 2",
+              "Foul",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Saddoughi strikes out looking, Adam Ingram pitching",
+              "B Brooks remains at 3rd",
+              "Wynn remains at 2nd",
+              "Engle remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 56,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 9,
+            "away_score": 8,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Ball 2"
+            ],
+            "result": [
+              "Austin is hit by pitch, Adam Ingram pitching",
+              "B Brooks scores",
+              "Wynn advances to 3rd",
+              "Engle advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 57,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "${5e1b36ae-055b-4623-8e24-9325bf5402f1} at bat",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [],
+            "result": [],
+            "messages": []
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "d5a64b18-9d0d-4045-be7a-5b8dc04121af",
+      "scraped_at": "2026-04-13T20:47:50.692440",
+      "boxscore": {
+        "us": {
+          "lineup_totals": {
+            "AB": 19,
+            "R": 4,
+            "H": 5,
+            "RBI": 4,
+            "BB": 6,
+            "SO": 7
+          },
+          "lineup_players": [
+            {
+              "name": "Beckett Dickinson",
+              "number": "21",
+              "positions": "(LF, CF, LF)",
+              "stats": {
+                "AB": 1,
+                "R": 1,
+                "H": 1,
+                "RBI": 1,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Grant Richards",
+              "number": "22",
+              "positions": "(C)",
+              "stats": {
+                "AB": 2,
+                "R": 1,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Will Kowalski",
+              "number": "98",
+              "positions": "(P)",
+              "stats": {
+                "AB": 1,
+                "R": 1,
+                "H": 1,
+                "RBI": 3,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Everett Harkins",
+              "number": "51",
+              "positions": "(1B, 3B)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 2
+              }
+            },
+            {
+              "name": "Oliver Wells",
+              "number": "14",
+              "positions": "(3B, RF, LF)",
+              "stats": {
+                "AB": 1,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Adam Ingram",
+              "number": "3",
+              "positions": "(SS, 2B, SS, P)",
+              "stats": {
+                "AB": 1,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Logan Pressberg",
+              "number": "12",
+              "positions": "(3B, SS)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Joshua Lopez",
+              "number": "2",
+              "positions": "(RF, 2B)",
+              "stats": {
+                "AB": 1,
+                "R": 0,
+                "H": 1,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Ren Endo",
+              "number": "11",
+              "positions": "(2B, RF)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Tommy DiPompeo",
+              "number": "24",
+              "positions": "(CF, LF, CF)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Grant Wang",
+              "number": "17",
+              "positions": "(1B)",
+              "stats": {
+                "AB": 2,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Darcy Mizejewski",
+              "number": "7",
+              "positions": "",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            }
+          ],
+          "lineup_extra": {
+            "HR": [
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 1
+              }
+            ],
+            "TB": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 1
+              },
+              {
+                "name": "Logan Pressberg",
+                "number": "12",
+                "value": 1
+              },
+              {
+                "name": "Grant Wang",
+                "number": "17",
+                "value": 1
+              },
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 1
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 4
+              }
+            ],
+            "HBP": [
+              {
+                "name": "Beckett Dickinson",
+                "number": "21",
+                "value": 1
+              }
+            ],
+            "SB": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 1
+              },
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 1
+              },
+              {
+                "name": "Grant Wang",
+                "number": "17",
+                "value": 1
+              }
+            ],
+            "CS": [
+              {
+                "name": "Joshua Lopez",
+                "number": "2",
+                "value": 1
+              }
+            ]
+          },
+          "pitching_totals": {
+            "IP": 6,
+            "H": 5,
+            "R": 1,
+            "ER": 1,
+            "BB": 3,
+            "SO": 6
+          },
+          "pitching_players": [
+            {
+              "name": "Will Kowalski",
+              "number": "98",
+              "positions": "",
+              "stats": {
+                "IP": "5.1",
+                "H": 5,
+                "R": 1,
+                "ER": 1,
+                "BB": 3,
+                "SO": 5
+              }
+            },
+            {
+              "name": "Adam Ingram",
+              "number": "3",
+              "positions": "",
+              "stats": {
+                "IP": "0.2",
+                "H": 0,
+                "R": 0,
+                "ER": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            }
+          ],
+          "pitching_extra": {
+            "#P": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 7
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 81
+              }
+            ],
+            "TS": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 4
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 52
+              }
+            ],
+            "BF": [
+              {
+                "name": "Adam Ingram",
+                "number": "3",
+                "value": 2
+              },
+              {
+                "name": "Will Kowalski",
+                "number": "98",
+                "value": 23
+              }
+            ]
+          }
+        },
+        "opponent": {
+          "lineup_totals": {
+            "AB": 22,
+            "R": 1,
+            "H": 5,
+            "RBI": 1,
+            "BB": 3,
+            "SO": 6
+          },
+          "lineup_players": [
+            {
+              "name": "Luke P",
+              "number": "11",
+              "positions": "(P)",
+              "stats": {
+                "AB": 3,
+                "R": 0,
+                "H": 2,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Ryan B",
+              "number": "7",
+              "positions": "(C)",
+              "stats": {
+                "AB": 3,
+                "R": 1,
+                "H": 1,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Darryl M",
+              "number": "86",
+              "positions": "",
+              "stats": {
+                "AB": 1,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 2,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Miles H",
+              "number": "15",
+              "positions": "(CF, P)",
+              "stats": {
+                "AB": 3,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Grant Z",
+              "number": "19",
+              "positions": "(1B)",
+              "stats": {
+                "AB": 3,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Luke B",
+              "number": "14",
+              "positions": "(LF)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 1,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Charlie F",
+              "number": "17",
+              "positions": "(2B)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Cooper P",
+              "number": "16",
+              "positions": "(SS)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 2,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            },
+            {
+              "name": "Logan F",
+              "number": "1",
+              "positions": "(3B, P)",
+              "stats": {
+                "AB": 1,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 1,
+                "SO": 1
+              }
+            },
+            {
+              "name": "Johnny Q",
+              "number": "2",
+              "positions": "(RF)",
+              "stats": {
+                "AB": 2,
+                "R": 0,
+                "H": 0,
+                "RBI": 0,
+                "BB": 0,
+                "SO": 0
+              }
+            }
+          ],
+          "lineup_extra": {
+            "TB": [
+              {
+                "name": "Luke P",
+                "number": "11",
+                "value": 2
+              },
+              {
+                "name": "Ryan B",
+                "number": "7",
+                "value": 1
+              },
+              {
+                "name": "Cooper P",
+                "number": "16",
+                "value": 2
+              }
+            ],
+            "CS": [
+              {
+                "name": "Luke P",
+                "number": "11",
+                "value": 1
+              },
+              {
+                "name": "Cooper P",
+                "number": "16",
+                "value": 1
+              }
+            ],
+            "E": [
+              {
+                "name": "Logan F",
+                "number": "1",
+                "value": 1
+              }
+            ]
+          },
+          "pitching_totals": {
+            "IP": 5,
+            "H": 5,
+            "R": 4,
+            "ER": 4,
+            "BB": 6,
+            "SO": 7
+          },
+          "pitching_players": [
+            {
+              "name": "Luke P",
+              "number": "11",
+              "positions": "",
+              "stats": {
+                "IP": 2,
+                "H": 3,
+                "R": 3,
+                "ER": 3,
+                "BB": 2,
+                "SO": 4
+              }
+            },
+            {
+              "name": "Miles H",
+              "number": "15",
+              "positions": "",
+              "stats": {
+                "IP": 2,
+                "H": 0,
+                "R": 0,
+                "ER": 0,
+                "BB": 4,
+                "SO": 3
+              }
+            },
+            {
+              "name": "Logan F",
+              "number": "1",
+              "positions": "",
+              "stats": {
+                "IP": 1,
+                "H": 2,
+                "R": 1,
+                "ER": 1,
+                "BB": 0,
+                "SO": 0
+              }
+            }
+          ],
+          "pitching_extra": {
+            "HBP": [
+              {
+                "name": "Luke P",
+                "number": "11",
+                "value": 1
+              }
+            ],
+            "#P": [
+              {
+                "name": "Luke P",
+                "number": "11",
+                "value": 55
+              },
+              {
+                "name": "Miles H",
+                "number": "15",
+                "value": 40
+              },
+              {
+                "name": "Logan F",
+                "number": "1",
+                "value": 18
+              }
+            ],
+            "TS": [
+              {
+                "name": "Luke P",
+                "number": "11",
+                "value": 31
+              },
+              {
+                "name": "Miles H",
+                "number": "15",
+                "value": 18
+              },
+              {
+                "name": "Logan F",
+                "number": "1",
+                "value": 10
+              }
+            ],
+            "BF": [
+              {
+                "name": "Luke P",
+                "number": "11",
+                "value": 11
+              },
+              {
+                "name": "Miles H",
+                "number": "15",
+                "value": 10
+              },
+              {
+                "name": "Logan F",
+                "number": "1",
+                "value": 5
+              }
+            ]
+          }
+        }
+      },
+      "plays": {
+        "sport": "baseball",
+        "plays": [
+          {
+            "order": 0,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Will Kowalski in at pitcher",
+              "In play"
+            ],
+            "result": [
+              "Luke P singles on a line drive to center fielder Tommy DiPompeo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 1,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Ryan B singles on a ground ball to left fielder Beckett Dickinson",
+              "Luke P advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 2,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Strike 2 looking",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Darryl M walks, Will Kowalski pitching",
+              "Luke P advances to 3rd",
+              "Ryan B advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 3,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Fielder's Choice",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Miles H grounds into fielder's choice, first baseman Grant Wang to catcher Grant Richards",
+              "Luke P out advancing to home",
+              "Ryan B advances to 3rd",
+              "Darryl M advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 4,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Grant Z flies out to third baseman Oliver Wells",
+              "Ryan B remains at 3rd",
+              "Darryl M remains at 2nd",
+              "Miles H remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 5,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Fielder's Choice",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Luke B lines into fielder's choice, center fielder Tommy DiPompeo to catcher Grant Richards",
+              "Ryan B scores",
+              "Darryl M advances to 3rd",
+              "Miles H advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 6,
+            "inning": 1,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Foul",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Charlie F strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 7,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Hit By Pitch",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Strike 2 swinging",
+              "Ball 1"
+            ],
+            "result": [
+              "Beckett Dickinson is hit by pitch, Luke P pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 8,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Pickoff attempt at 1st",
+              "Ball 1",
+              "Strike 1 swinging",
+              "Ball 2",
+              "Ball 3",
+              "Strike 2 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Grant Richards walks, Luke P pitching",
+              "Beckett Dickinson advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 9,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Home Run",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": true,
+            "at_plate": [
+              "Strike 1 looking",
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "Will Kowalski homers on a line drive to center field",
+              "Beckett Dickinson scores",
+              "Grant Richards scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 10,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Everett Harkins strikes out swinging, Luke P pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 11,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Strike 1 swinging",
+              "Strike 2 swinging",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Oliver Wells walks, Luke P pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 12,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 swinging",
+              "Strike 2 swinging",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Adam Ingram strikes out swinging, Luke P pitching",
+              "Oliver Wells remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 13,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Oliver Wells advances to 2nd on passed ball",
+              "Foul",
+              "Ball 1",
+              "Strike 2 looking",
+              "Foul",
+              "Ball 2",
+              "Foul",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Logan Pressberg singles on a ground ball to left fielder Luke B",
+              "Oliver Wells advances to 3rd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 14,
+            "inning": 1,
+            "half": "bottom",
+            "outcome": "Runner Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Logan Pressberg picked off at 1st, pitcher Luke P to first baseman Grant Z"
+            ],
+            "result": [
+              "Half-inning ended by out on the base paths"
+            ],
+            "messages": []
+          },
+          {
+            "order": 15,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Cooper P singles on a line drive to center fielder Tommy DiPompeo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 16,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Pickoff attempt at 1st",
+              "Cooper P caught stealing 2nd, catcher Grant Richards to second baseman Ren Endo",
+              "Strike 1 swinging",
+              "Ball 1",
+              "Strike 2 swinging",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Logan F strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 17,
+            "inning": 2,
+            "half": "top",
+            "outcome": "Line Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Johnny Q lines out to shortstop Adam Ingram"
+            ],
+            "messages": []
+          },
+          {
+            "order": 18,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Foul",
+              "Ball 3",
+              "Strike 2 looking",
+              "In play"
+            ],
+            "result": [
+              "Joshua Lopez singles on a line drive to right fielder Johnny Q"
+            ],
+            "messages": []
+          },
+          {
+            "order": 19,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Pickoff attempt at 1st",
+              "In play"
+            ],
+            "result": [
+              "Ren Endo grounds out, pitcher Luke P to first baseman Grant Z",
+              "Joshua Lopez advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 20,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Ball 3",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Tommy DiPompeo strikes out looking, Luke P pitching",
+              "Joshua Lopez remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 21,
+            "inning": 2,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Ball 1",
+              "Joshua Lopez steals 3rd",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Grant Wang strikes out swinging, Luke P pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 22,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Foul",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Luke P singles on a fly ball to shortstop Logan Pressberg"
+            ],
+            "messages": []
+          },
+          {
+            "order": 23,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Pickoff attempt at 1st",
+              "Strike 2 looking",
+              "Ball 1",
+              "Luke P caught stealing 2nd, catcher Grant Richards to second baseman Ren Endo",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Ryan B strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 24,
+            "inning": 3,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 swinging",
+              "Ball 1",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Darryl M strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 25,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Strike 2 swinging",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Darcy Mizejewski strikes out swinging, Miles H pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 26,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Strike 2 swinging",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Beckett Dickinson walks, Miles H pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 27,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Error",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Grant Richards hits a ground ball and reaches on an error by third baseman Logan F",
+              "Beckett Dickinson advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 28,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Will Kowalski walks, Miles H pitching",
+              "Beckett Dickinson advances to 3rd",
+              "Grant Richards advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 29,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Strike 3 looking"
+            ],
+            "result": [
+              "Everett Harkins strikes out looking, Miles H pitching",
+              "Beckett Dickinson remains at 3rd",
+              "Grant Richards remains at 2nd",
+              "Will Kowalski remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 30,
+            "inning": 3,
+            "half": "bottom",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Ball 2",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Oliver Wells strikes out swinging, Miles H pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 31,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Miles H flies out to center fielder Beckett Dickinson"
+            ],
+            "messages": []
+          },
+          {
+            "order": 32,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Ground Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Strike 1 looking",
+              "In play"
+            ],
+            "result": [
+              "Grant Z grounds out to first baseman Grant Wang"
+            ],
+            "messages": []
+          },
+          {
+            "order": 33,
+            "inning": 4,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Strike 2 looking",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Luke B strikes out swinging, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 34,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Strike 1 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Adam Ingram walks, Miles H pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 35,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Pop Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Logan Pressberg pops out to third baseman Logan F",
+              "Adam Ingram remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 36,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Pickoff attempt at 1st",
+              "Ball 1",
+              "Pickoff attempt at 1st",
+              "Ball 2",
+              "Ball 3",
+              "Adam Ingram steals 2nd",
+              "Strike 1 looking",
+              "Ball 4"
+            ],
+            "result": [
+              "Joshua Lopez walks, Miles H pitching",
+              "Adam Ingram remains at 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 37,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Fielder's Choice",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Pickoff attempt at 2nd",
+              "In play"
+            ],
+            "result": [
+              "Ren Endo grounds into fielder's choice, shortstop Cooper P to third baseman Logan F",
+              "Adam Ingram out advancing to 3rd",
+              "Joshua Lopez advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 38,
+            "inning": 4,
+            "half": "bottom",
+            "outcome": "Runner Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "Joshua Lopez caught stealing 3rd, catcher Ryan B to third baseman Logan F"
+            ],
+            "result": [
+              "Half-inning ended by out on the base paths"
+            ],
+            "messages": []
+          },
+          {
+            "order": 39,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Pop Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Foul",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Charlie F pops out to pitcher Will Kowalski"
+            ],
+            "messages": []
+          },
+          {
+            "order": 40,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "In play"
+            ],
+            "result": [
+              "Cooper P singles on a ground ball to pitcher Will Kowalski"
+            ],
+            "messages": []
+          },
+          {
+            "order": 41,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Pickoff attempt at 1st",
+              "Strike 1 swinging",
+              "Ball 1",
+              "Ball 2",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Logan F walks, Will Kowalski pitching",
+              "Cooper P advances to 2nd"
+            ],
+            "messages": []
+          },
+          {
+            "order": 42,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Courtesy runner Luke B in for Logan F",
+              "Foul",
+              "Ball 1",
+              "Strike 2 looking",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Johnny Q flies out to pitcher Will Kowalski",
+              "Cooper P remains at 2nd",
+              "Luke B remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 43,
+            "inning": 5,
+            "half": "top",
+            "outcome": "Line Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Luke P lines out, third baseman Everett Harkins to pitcher Will Kowalski"
+            ],
+            "messages": []
+          },
+          {
+            "order": 44,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Line Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "In play"
+            ],
+            "result": [
+              "Tommy DiPompeo lines out to second baseman Charlie F"
+            ],
+            "messages": []
+          },
+          {
+            "order": 45,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Foul",
+              "Ball 1",
+              "Ball 2",
+              "Foul",
+              "Ball 3",
+              "Foul",
+              "In play"
+            ],
+            "result": [
+              "Grant Wang singles on a line drive to right fielder Johnny Q"
+            ],
+            "messages": []
+          },
+          {
+            "order": 46,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 3,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Pickoff attempt at 1st",
+              "In play"
+            ],
+            "result": [
+              "Darcy Mizejewski flies out to shortstop Cooper P",
+              "Grant Wang remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 47,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Single",
+            "outs": 2,
+            "outs_changed": false,
+            "home_score": 4,
+            "away_score": 1,
+            "score_changed": true,
+            "at_plate": [
+              "Ball 1",
+              "Strike 1 looking",
+              "Strike 2 swinging",
+              "Ball 2",
+              "Grant Wang steals 2nd",
+              "In play"
+            ],
+            "result": [
+              "Beckett Dickinson singles on a line drive to left fielder Luke B",
+              "Grant Wang scores"
+            ],
+            "messages": []
+          },
+          {
+            "order": 48,
+            "inning": 5,
+            "half": "bottom",
+            "outcome": "Ground Out",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 4,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "In play"
+            ],
+            "result": [
+              "Grant Richards grounds out, shortstop Cooper P to first baseman Grant Z"
+            ],
+            "messages": []
+          },
+          {
+            "order": 49,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 1,
+            "outs_changed": true,
+            "home_score": 4,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Foul",
+              "Strike 2 swinging",
+              "Foul",
+              "Ball 2",
+              "Ball 3",
+              "In play"
+            ],
+            "result": [
+              "Ryan B flies out to center fielder Tommy DiPompeo"
+            ],
+            "messages": []
+          },
+          {
+            "order": 50,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Walk",
+            "outs": 1,
+            "outs_changed": false,
+            "home_score": 4,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Strike 1 looking",
+              "Ball 1",
+              "Foul",
+              "Ball 2",
+              "Foul",
+              "Ball 3",
+              "Ball 4"
+            ],
+            "result": [
+              "Darryl M walks, Will Kowalski pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 51,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Fly Out",
+            "outs": 2,
+            "outs_changed": true,
+            "home_score": 4,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Lineup changed: Adam Ingram in at pitcher",
+              "In play"
+            ],
+            "result": [
+              "Miles H flies out to center fielder Tommy DiPompeo",
+              "Darryl M remains at 1st"
+            ],
+            "messages": []
+          },
+          {
+            "order": 52,
+            "inning": 6,
+            "half": "top",
+            "outcome": "Strikeout",
+            "outs": 3,
+            "outs_changed": true,
+            "home_score": 4,
+            "away_score": 1,
+            "score_changed": false,
+            "at_plate": [
+              "Ball 1",
+              "Ball 2",
+              "Strike 1 swinging",
+              "Strike 2 swinging",
+              "Ball 3",
+              "Strike 3 swinging"
+            ],
+            "result": [
+              "Grant Z strikes out swinging, Adam Ingram pitching"
+            ],
+            "messages": []
+          },
+          {
+            "order": 53,
+            "inning": 6,
+            "half": "bottom",
+            "outcome": "${aa5a9b21-1a6d-447a-8862-76d88c1617e7} at bat",
+            "outs": 0,
+            "outs_changed": false,
+            "home_score": 0,
+            "away_score": 0,
+            "score_changed": false,
+            "at_plate": [],
+            "result": [],
+            "messages": []
+          }
+        ]
+      }
+    }
+  ]
+}
